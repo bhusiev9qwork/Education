@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\FigurePropertiesCalculator\FigurePropertiesCalculator\bin\Debug\net7.0\FigurePropertiesCalculator.exe
+C:\Users\User\source\repos\FigurePropertiesCalculator\FigurePropertiesCalculator\bin\Debug\net7.0\FigurePropertiesCalculator.deps.json
+C:\Users\User\source\repos\FigurePropertiesCalculator\FigurePropertiesCalculator\bin\Debug\net7.0\FigurePropertiesCalculator.runtimeconfig.json
+C:\Users\User\source\repos\FigurePropertiesCalculator\FigurePropertiesCalculator\bin\Debug\net7.0\FigurePropertiesCalculator.dll
+C:\Users\User\source\repos\FigurePropertiesCalculator\FigurePropertiesCalculator\bin\Debug\net7.0\FigurePropertiesCalculator.pdb
+C:\Users\User\source\repos\FigurePropertiesCalculator\FigurePropertiesCalculator\obj\Debug\net7.0\FigurePropertiesCalculator.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\FigurePropertiesCalculator\FigurePropertiesCalculator\obj\Debug\net7.0\FigurePropertiesCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\FigurePropertiesCalculator\FigurePropertiesCalculator\obj\Debug\net7.0\FigurePropertiesCalculator.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\FigurePropertiesCalculator\FigurePropertiesCalculator\obj\Debug\net7.0\FigurePropertiesCalculator.AssemblyInfo.cs
+C:\Users\User\source\repos\FigurePropertiesCalculator\FigurePropertiesCalculator\obj\Debug\net7.0\FigurePropertiesCalculator.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\FigurePropertiesCalculator\FigurePropertiesCalculator\obj\Debug\net7.0\FigurePropertiesCalculator.dll
+C:\Users\User\source\repos\FigurePropertiesCalculator\FigurePropertiesCalculator\obj\Debug\net7.0\refint\FigurePropertiesCalculator.dll
+C:\Users\User\source\repos\FigurePropertiesCalculator\FigurePropertiesCalculator\obj\Debug\net7.0\FigurePropertiesCalculator.pdb
+C:\Users\User\source\repos\FigurePropertiesCalculator\FigurePropertiesCalculator\obj\Debug\net7.0\FigurePropertiesCalculator.genruntimeconfig.cache
+C:\Users\User\source\repos\FigurePropertiesCalculator\FigurePropertiesCalculator\obj\Debug\net7.0\ref\FigurePropertiesCalculator.dll
