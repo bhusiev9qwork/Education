@@ -25,7 +25,7 @@ public static class MyOperation
             case "Triangle" or "triangle" or "Square" or "square":
                 bool isSquare  = (figureName == "Square" 
                     || figureName == "square")?true:false; 
-                figureBase.ChooseOperation(figureBase.SetSides(isSquare),isSquare);
+                figureBase.ChooseOperation(FigureBase.SetSides(isSquare),isSquare);
                  break;
             default:
                  Console.WriteLine($"Figure does not exist { figureName}");
@@ -37,18 +37,11 @@ public static class MyOperation
 
     public class FigureBase
     {
-        protected virtual float GetPerimeter(float a, float b, float c = 0)
-        {
-            return a + b + c;
-        }
-
+        protected virtual float GetPerimeter(float a, float b, float c = 0) => a + b + c;
         protected virtual float GetArea(float a, float b, float c = 1) => a * b * c;
 
-        public void Initilize(float sideA,float B, float C)
-        {
 
-        }
-        public (float,float,float) SetSides(bool isSquare)
+        public static (float,float,float) SetSides(bool isSquare)
         {
             List<float> sides = new();
             char[] letters = "ABC".ToCharArray();
